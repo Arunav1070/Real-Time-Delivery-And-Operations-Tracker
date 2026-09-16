@@ -40,3 +40,4 @@ Network: Active internet connection (Cellular or Wi-Fi) for live synchronization
 
 ## Installation
 
+Clone this repository in Android Studio using the GitHub url : https://github.com/Arunav1070/Real-Time-Delivery-And-Operations-Tracker.git
