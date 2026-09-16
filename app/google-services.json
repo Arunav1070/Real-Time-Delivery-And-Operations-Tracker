@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1053383798027",
+    "project_id": "realtimedelivery-46afd",
+    "storage_bucket": "realtimedelivery-46afd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053383798027:android:182b7800ab61de55c9460e",
+        "android_client_info": {
+          "package_name": "com.example.realtimedeliveryandoperationstracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoc_7KNZNfboSiLVwfbyuXwFPOiZUXoiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
